@@ -4,7 +4,6 @@ class Stack {
   constructor() {
   }
 
-<<<<<<< HEAD
   push(value) {
     this[this.count] = value;
     this.count++;
@@ -22,6 +21,4 @@ class Stack {
   size(){
     return this.count;
   }
-=======
->>>>>>> parent of e51f79d... finished part 2
 }
